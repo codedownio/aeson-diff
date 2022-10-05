@@ -1,5 +1,5 @@
 resolver: lts-19.7
-# resolver: nightly-2022-02-07
+# resolver: nightly-2022-07-07
 extra-deps: []
 flags: {}
 extra-package-dbs: []
